@@ -1,0 +1,75 @@
+#innovating {
+	background: url(/img/innovating.jpg) no-repeat top #ff6908;
+	background-attachment: fixed;
+	background-size: 2000px auto;
+	background-position: center center;
+	height: 30em;
+	color: white;
+	text-align: center;
+
+	h1 {
+		color: white;
+	}
+
+	p {
+		font-size: $h5-font-size;
+	}
+}
+
+#projects {
+	background: url(/img/projects.png) no-repeat top black;
+	background-attachment: fixed;
+	background-size: 2000px auto;
+	background-position: center center;
+	height: 30em;
+	color: white;
+	text-align: center;
+	
+	.row {
+		background: rgba(0,0,0,.6)
+	}
+
+	h1 {
+		color: white;
+	}
+
+	p {
+		font-size: $h5-font-size;
+	}
+}
+
+#people {
+	background: url(/img/people.jpg) no-repeat top black;
+	background-attachment: fixed;
+	background-size: 2000px auto;
+	background-position: center center;
+	height: 30em;
+	color: white;
+	text-align: center;
+	
+	.row {
+		background: rgba(0,0,0,.1)
+	}
+
+	h1 {
+		color: white;
+	}
+
+	p {
+		font-size: $h5-font-size;
+	}
+}
+
+.valign-middle {
+	  display: table;
+	  height: 100%;
+
+	  > .columns {
+	      display: table-cell;
+	      vertical-align: middle;
+	  }
+
+	  > .columns, > [class*="column"] + [class*="column"]:last-child {
+	      float: none;
+	  }
+	} 

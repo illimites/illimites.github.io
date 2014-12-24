@@ -1,0 +1,39 @@
+@media #{$small-only} {
+
+
+	aside#quotes {
+		display: none;
+	}
+
+}
+
+@media #{$medium-up} { 
+
+
+	.row {
+		width: 96%;
+		max-width: none;
+		margin: 0 2%;
+	}
+
+	aside#quotes {
+		display: none;
+		position: fixed;
+		top: 0;
+		right: 0;
+		background: #16304b;
+		color: white;
+		border-left: 2px inset #ced3d9;
+	}
+
+	 
+
+
+	.row.main.valign-middle {
+		height: 100%;
+	}
+}
+
+.row.showcase {
+	margin: 3em 3%;
+}
