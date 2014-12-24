@@ -65,7 +65,7 @@ keywords: github pages, Jekyll, foundation 5
 		</div>
 		<div class="small-11 small-centered  large-7 columns">
 			<h3 class="recent-lesson-title">Sieci społeczne elit II RP</h3>
-			<p class="recent-lesson-desc">Learn a few techniques to keep your emails legit —&nbsp;and spam-filter resistant.</p>
+			<p class="recent-lesson-desc">Jak wyglądała struktura relacji między nauką a biznesem w II RP?</p>
 			<p><a class="button left" href="/university/lessons/65" title="ZURB.com">Dowiedz się więcej</a></p>
 		</div>
 	</div>
