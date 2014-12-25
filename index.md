@@ -47,10 +47,10 @@ keywords: github pages, Jekyll, foundation 5
 		<div class="small-11 large-7 columns">
 			<h3 class="recent-lesson-title">Badania pogranicza analogowo-cyfrowego</h3>
 			<p>Jak internet, technologie i urządzenia wpływają na nasze zachowania?</p>
-			<p><a class="button left" href="/university/lessons/65" title="ZURB.com">Dowiedz się więcej</a></p>
+			<p><a class="button left" href="/pogranicze.html">Dowiedz się więcej</a></p>
 		</div>
 		<div class="show-for-large-up large-5 columns">
-			<div class="animation" style="height: 80%">
+			<div class="animation">
 				<img alt="Pogranicze analogowo-cyfrowe" class="first" src="/assets/main/reimagination1.png">
 				<img alt="Pogranicze analogowo-cyfrowe" class="second" src="/assets/main/reimagination2.png">
 			</div>
@@ -63,10 +63,10 @@ keywords: github pages, Jekyll, foundation 5
 				<img alt="Pogranicze analogowo-cyfrowe" class="second" src="/assets/main/historical_networks2.png">
 			</div>
 		</div>
-		<div class="small-11 small-centered  large-7 columns">
-			<h3 class="recent-lesson-title">Sieci społeczne elit II RP</h3>
-			<p class="recent-lesson-desc">Jak wyglądała struktura relacji między nauką a biznesem w II RP?</p>
-			<p><a class="button left" href="/university/lessons/65" title="ZURB.com">Dowiedz się więcej</a></p>
+		<div class="small-11 small-centered  large-7 columns text-justify">
+			<h3>Sieci społeczne elit II RP</h3>
+			<p>Jednym z doświadczeń twórców projektu Network Sunrise, jest odkrycie wpływu niedostatku relacji między naukowcami a przedsiębiorcami na niską liczbę przypadków współpracy B+R w Polsce. Istotne jest zatem ustalenie, czy niedostatek relacji nauki z biznesem jest charakterystycznym elementem polskiej kultury, czy też jest artefaktem spowodowanym różnymi wydarzeniami w przeszłośc?</p>
+			<p><a class="button left" href="/sieci.html">Dowiedz się więcej</a></p>
 		</div>
 	</div>
 </div>
