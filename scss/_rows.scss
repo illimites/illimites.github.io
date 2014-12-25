@@ -5,9 +5,21 @@
 		display: none;
 	}
 
+
+.row.showcase {
+	margin: 3em auto;
+
+	> h2 {
+		margin:1em 0;
+	}
 }
 
-@media #{$medium-up} { 
+}
+
+@media #{$medium-up} {
+	.large-4, .large-5, .large-6, .large-7, .large-8, .large-9, .large-10 {
+		text-align: justify;
+	} 
 
 
 	.row {
@@ -26,13 +38,6 @@
 		border-left: 2px inset #ced3d9;
 	}
 
-	 
-
-
-	.row.main.valign-middle {
-		height: 100%;
-	}
-}
 
 .row.showcase {
 	margin: 3em 3%;
@@ -41,3 +46,16 @@
 		margin:1em 0;
 	}
 }
+
+	 
+
+
+	.row.main.valign-middle {
+		height: 100%;
+	}
+}
+
+.row-wrapper {
+	width: 100%;
+}
+

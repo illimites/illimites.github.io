@@ -15,13 +15,13 @@ keywords: github pages, Jekyll, foundation 5
 		</div>
 	</div>
 </div>
-<div class="columns small-10 small-centered large-10 large-centered">
+<div class="columns small-12 small-centered large-10 large-centered">
 	<div class="row showcase">
-		<div class="text-justify large-6 column">
+		<div class="small-12 large-6 column">
 			<p>W Pol­sce przed­wo­jen­nej, bada­nia naukowe były reali­zo­wane w oddol­nych struk­tu­rach, finan­so­wa­nych dzięki ofiar­no­ści dar­czyń­ców oraz hoj­no­ści filan­tro­pów i mecenasów.</p>
 			<p>Taka orga­ni­za­cja pozwa­lała na ode­rwa­nie się od ogra­ni­czeń dzie­dzi­no­wych w stronę sto­so­wal­nych wyni­ków. Efek­tem tej dzia­łal­no­ści było opra­co­wa­nie w Pol­sce takich tech­no­lo­gii jak har­mo­no­gram, kami­zelka kulo­od­porna czy wycieraczki. Po woj­nie ten spo­sób dzia­łal­no­ści, eli­mi­no­wany przez wła­dze komu­ni­styczne, na zacho­dzie był źró­dłem cią­głego roz­woju.</p>
 		</div>
-		<div class="text-justify large-6 column">
+		<div class="small-12 large-6 column">
 			<p> Ini­cja­tywą tego typu jest np. Uni­wer­sy­tet Stanforda. Ta ufun­do­wana przez rodzinę filan­tro­pów uczel­nia jest dziś, po ponad 100 latach ist­nie­nia, świa­to­wym lide­rem wśród insty­tu­cji naukowo-biznesowych.</p>
 			<p>Wielu Polaków spogląda dziś na zachód z zazdrością i pragnieniem importu tego sposobu funkcjonowania organizacji badawczych. My staramy się odtworzyć ten sposób mysle­nia, będacy fun­da­men­tem eks­plo­zji roz­woju II RP, we współczesnej Polsce .</p>
 		</div>
@@ -42,7 +42,7 @@ keywords: github pages, Jekyll, foundation 5
 		</div>
 	</div>
 </div>
-<div class="columns small-10 small-centered large-10 large-centered">
+<div class="columns small-12 small-centered large-10 large-centered">
 	<div class="row showcase">
 		<div class="show-for-large-up large-6 columns">
 			<div class="animation">
@@ -50,7 +50,7 @@ keywords: github pages, Jekyll, foundation 5
 				<img alt="Pogranicze analogowo-cyfrowe" class="second" src="/assets/main/reimagination2.png">
 			</div>
 		</div>
-		<div class="small-11 small-centered  large-uncentered large-6 columns text-justify">
+		<div class="small-12 small-centered  large-uncentered large-6 columns">
 			<h3 class="recent-lesson-title">Badania pogranicza analogowo-cyfrowego</h3>
 			<p>Jak internet, technologie i urządzenia wpływają na nasze zachowania?</p>
 			<p><a class="button left" href="/pogranicze.html">Dowiedz się więcej</a></p>
@@ -64,7 +64,7 @@ keywords: github pages, Jekyll, foundation 5
 				<img alt="Pogranicze analogowo-cyfrowe" class="second" src="/assets/main/historical_networks2.png">
 			</div>
 		</div>
-		<div class="small-11 small-centered  large-uncentered large-6 columns text-justify">
+		<div class="small-12 small-centered  large-uncentered large-6 columns">
 			<h3>Sieci społeczne elit II RP</h3>
 			<p>Jednym z doświadczeń twórców projektu Network Sunrise, jest odkrycie wpływu niedostatku relacji między naukowcami a przedsiębiorcami na niską liczbę przypadków współpracy B+R w Polsce. Istotne jest zatem ustalenie, czy niedostatek relacji nauki z biznesem jest charakterystycznym elementem polskiej kultury, czy też jest artefaktem spowodowanym różnymi wydarzeniami w przeszłośc?</p>
 			<p><a class="button left" href="/sieci.html">Dowiedz się więcej</a></p>
@@ -83,23 +83,23 @@ keywords: github pages, Jekyll, foundation 5
 </div>
 
 
-<div class="columns small-10 small-centered large-10 large-centered">
+<div class="columns small-12 small-centered large-10 large-centered">
 		<div class="row showcase">
-			<div class="large-4 column text-justify">
+			<div class="large-4 column">
 				<img class="avatar" alt="Piotr Szymański - Prezes Fundacji illimites" src="/assets/people/piotr_szymanski.jpg">
 				<h3><a href="">Piotr Szy­mań­ski</a></h3>
 				<p class="job-title">Fun­da­tor, Prezes</p>
 				<p class="short-bio">Koń­czy dok­to­rat na Poli­tech­nice Wro­cław­skiej. Stu­dio­wał i odby­wał staże na Uni­wer­sy­te­cie Stan­forda i w pry­wat­nym Insty­tu­cie Hasso Plat­t­nera w Pocz­da­mie.Pro­wa­dzi nas w przy­szłość, pisze granty, orga­ni­zuje zespoły, zaraża pasją.</p>
 				<p></p>
 			</div>
-			<div class="large-4 columns centered-text">
+			<div class="large-4 columns">
 				<img class="avatar" alt="Ewa Zduńczyk - Wiceprezes Fundacji illimites" src="/assets/people/ewa_zdunczyk.jpg">
 				<h3><a href="">Ewa Zduń­czyk</a></h3>
 				<p class="job-title">Fun­da­torka, Wiceprezes</p>
 				<p class="short-bio">Absol­wentka bio­tech­no­lo­gii na Uni­wer­sy­te­cie Wro­cław­skim. Pracowała w instytutach w Kopen­ha­dze i Paryżu. Obec­nie kie­row­nik Ośrodka Badawczo-Rozwojowego w Woje­wódz­kim Szpi­talu Spe­cja­li­stycz­nym we Wro­cła­wiu. W fundacji ana­li­zuje pro­jekty, pil­nuje ter­mi­nów i spra­wia, że wszystko jest dopięte na ostatni guzik.</p>
 				<p></p>
 			</div>
-			<div class="large-4 columns centered-text">
+			<div class="large-4 columns">
 				<img class="avatar" alt="Maciej Karczewski - Wiceprezes Fundacji illimites" src="/assets/people/maciej_karczewski.jpg">
 				<h3><a href="">Maciej Kar­czew­ski</a></h3>
 				<p class="job-title">Fun­da­tor, Wiceprezes</p>
@@ -107,25 +107,25 @@ keywords: github pages, Jekyll, foundation 5
 			</div>
 	</div>
 	<div class="row">
-		<div class="large-4 columns centered-text">
+		<div class="large-4 columns">
 			<h3><a href="">Andrzej Chmiel</a></a></h3>
 			<p class="job-title">Psy­cho­log, Filozof</p>
 			<p class="short-bio">Dok­tor psy­cho­lo­gii, absol­went Uni­wer­sy­tetu Wro­cław­skiego, pra­cuje w Dol­no­ślą­skiej Szkole Wyż­szej. Pro­wa­dzi bada­nia, ani­muje, pasjo­nuje się psy­cho­lo­gią este­tyki i sztuki, w tym archi­tek­tury, a także psy­cho­so­cjo­lo­gią Internetu. W fundacji kieruje badaniami nad <a href="/pogranicze.html">pograniczem analogowo-cyfrowym</a>.</p>
 		</div>
-		<div class="large-4 columns centered-text">
+		<div class="large-4 columns">
 			<h3><a href="">Renata Madziara</a></h3>
 			<p class="job-title">Histo­ryk</p>
 			<p class="short-bio">Dok­tor histo­rii, absol­wentka Uni­wer­sy­tetu Wro­cław­skiego. Pasjo­nuje się histo­rią tech­niki i lokal­nych spo­łecz­no­ści. Pro­wa­dzi wła­sne wydaw­nic­two Biblio­theca Sile­siana. Została wyróż­niona przez Ośro­dek Pamięć i Przy­szłość we Wro­cła­wiu – została lau­re­atką <span class="caps">III</span> edy­cji kon­kursu dla mło­dego naukowca. W fundacji zajmuje się badaniami nad <a href="/sieci.html">sieciami społecznymi elit II RP</a></p>
 		</div>
-		<div class="large-4 columns centered-text">
+		<div class="large-4 columns">
 				<img class="avatar" alt="Maciej Kamiński - Przewodniczący Kapituły Fundacji illimites" src="/assets/people/maciej_kaminski.jpg">
 				<h3><a href="">Maciej Kamiń­ski</a></h3>
 				<p class="job-title">Fun­da­tor, Prze­wod­ni­czący Kapituły</p>
 				<p class="short-bio">Absol­went infor­ma­tyki Wydziału Pod­sta­wo­wych Pro­ble­mów Tech­niki Poli­tech­niki Wro­cław­skiej. Pra­cuje w Kate­drze Pla­no­wa­nia Prze­strzen­nego na Poli­tech­nice Wro­cław­skiej razem z prof. Tade­uszem Zip­se­rem.</p>
 		</div>
 	</div>
-	<div class="row panel showcase">
-		<div class="large-8 large-centered columns text-center">
+	<div class="row  showcase">
+		<div class="panel large-6 large-centered columns text-center">
 			<p class="sub-headline home-instructors">Te osoby, to tylko kilku naszych fan­ta­stycz­nych ludzi, któ­rzy dzia­ła­jąc oddol­nie zmie­niają na trwałe obli­cze pol­skiej&nbsp;nauki!</p>
 			<p class="button alert">Poznaj wszystkich!</p>
 		</div>

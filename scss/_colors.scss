@@ -1,0 +1,37 @@
+.golden-navy {
+	color: #f9ba17;
+	background-color: #05344e;
+
+	button, .button, .panel, .label
+	{
+		border: 1px solid #035773;
+		outline: #73afbe;
+	}
+}
+
+
+.blue-white {
+	color: #f1f1f1;
+	background-color: #0195b1;
+
+	button, .button, .panel, .label 
+	{
+		border: 1px solid #03728c;
+		outline: #73a4b3;
+	}
+
+	a {
+		color: #f9ba17;
+	}
+}
+
+.gray-black {
+	color: #010b0d;
+	background-color: #f1f1f1;
+
+	button, .button, .panel, .label
+	{
+		border: 1px solid #f1f1f1;
+		outline: #f1f1f1;
+	}
+}
