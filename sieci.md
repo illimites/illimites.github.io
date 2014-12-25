@@ -1,0 +1,92 @@
+---
+layout: default
+title: Sieci społeczne
+description: This is my site. Welcome.
+keywords: github pages, Jekyll, foundation 5
+---
+
+
+<div id="drugarp">
+	<!--- https://www.flickr.com/photos/gsfc/4398656115 -->
+	<div class="row large-collapse valign-middle" >
+		<div class="small-11 large-12 columns" >
+			<h1>Sieć społeczna środowisk nauki i biznesu II RP</h1>
+			<p>Jak struktura relacji między nauką a biznesem w przedwojennej Polsce pozwoliła na rozkwit innowacji?</p>
+		</div>
+	</div>
+</div>
+
+<div class="columns small-10 small-centered large-10 large-centered">
+	<div class="row showcase">
+		<div class="text-justify large-6 column">
+			<p>Jednym z doświadczeń twórców projektu Network Sunrise, jest odkrycie wpływu niedostatku relacji między naukowcami a przedsiębiorcami na niską liczbę przypadków współpracy B+R w Polsce. Istotne jest zatem ustalenie, czy niedostatek relacji nauki z biznesem jest charakterystycznym elementem polskiej kultury, czy też jest artefaktem spowodowanym różnymi wydarzeniami w przeszłośc?</p>
+		</div>
+		<div class="text-justify large-6 column">
+			<p>W literaturze opisane zostały przypadki rozpadu struktury sieci społecznych w sytuacji ataków na uczestników o największej liczbie relacji z innymi uczestnikami sieci4. Wynik ten uzyskany przy okazji ataków hakerów na serwisy internetowe można zreinterpretować w kontekście struktury społecznej i w efekcie postawić hipotezę badawczą, iż jeśli w II RP istniała sieć społeczna relacji między nauką a biznesem, to uległa ona zniszczeniu w wyniku II wojny światowej i masowych mordów na polskich elitach. Aby jednak móc zweryfikować tę hipotezę w pełni, konieczne jest uprzednie dokonanie badań i prac warsztatowych w obrębie II RP. </p>
+		</div>
+	</div>
+</div>
+
+<div class="columns small-10 small-centered large-10 large-centered">
+<h2>Jak to mogło wyglądać?</h2>
+	<div class="row showcase">
+		
+		<div class="show-for-large-up large-6 column">
+			<div class="animation">
+				<img alt="Pogranicze analogowo-cyfrowe" class="first" src="/assets/main/historical_networks.png">
+				<img alt="Pogranicze analogowo-cyfrowe" class="second" src="/assets/main/historical_networks2.png">
+			</div>
+		</div>
+		<div class="small-11 small-centered large-uncentered large-6 column text-justify">
+			<p>Jak wyglądała struktura relacji między nauką a biznesem w II RP? Naszą hipotezą jest, iż w <em>II RP istniała gęsta sieć relacji między naukowcami a przedsiębiorcami</em>. Technicnie to ujmując, hipoteza brzmi iż rozkład stopni wierzchołków w grafie relacji (sieci społecznej) B+R II RP podążał za prawem potęgowym z parametrem beta \in 2,3. Panagniotou pokazał, iż sieci o takiej strukturze mają doskonałe możliwości komunikacyjne. Roben zaś pokazał, że są one wyjątkowo odporne na ataki (likwidację węzłów).
+			</p>
+			<p>Naszą drugą hipotezą jest, iż dzisiejszy niedobór relacji nauki i biznesu wynika z faktu, iż ta gęsta sieć relacji uległa atakowi o strukturze podobnej do zaproponowanego przez Robbena. Losowe zabijanie naukowców niewiele by dało, ale atak polegający na likwidacji najlepiej usieciowionych elit, był atakiem, który pozwolił na skuteczne rozspójnienie grafu relacji, tj. fragmentację tych środowisk i podział między nimi.</p>
+			<p class="show-for-large-up">Efekt tego typu ataków możecie zobaczyć po lewej na przykładzie klasycznej sieci Karate, z ktorej usunięto 10% najbardziej usieciowionych osób.</p>
+		</div>
+	</div>
+
+	<div class="row showcase">
+	<h2>Zespół</h2>
+		<div class="large-4 columns centered-text zurbian">
+			<img alt="renata madziara" src="/web/20140516203451im_/http://illimites.edu.pl/img/renata.madziara.jpg"><p></p>
+			<h3><a href="">Renata Madziara</a></h3>
+			<p class="job-title">Histo­ryk</p>
+			<p class="short-bio">Dok­tor histo­rii, absol­wentka Uni­wer­sy­tetu Wro­cław­skiego. Pasjo­nuje się histo­rią tech­niki i lokal­nych spo­łecz­no­ści. Pro­wa­dzi wła­sne wydaw­nic­two Biblio­theca Sile­siana. Została wyróż­niona przez Ośro­dek Pamięć i Przy­szłość we Wro­cła­wiu – została lau­re­atką <span class="caps">III</span> edy­cji kon­kursu dla mło­dego naukowca.</p>
+			<p></p>
+		</div>
+
+		<div class="large-4 column text-justify zurbian">
+			<img alt="piotr szymański" src="/web/20140516203451im_/http://illimites.edu.pl/img/piotr.szymanski.jpg" />
+			<p></p>
+			<h3><a href="">Piotr Szy­mań­ski</a></h3>
+			<p class="job-title">Analityk danych, informatyk</p>
+			<p class="short-bio">Piotr jest naszym lide­rem i inspi­ra­to­rem. Koń­czy dok­to­rat na Poli­tech­nice Wro­cław­skiej. Stu­dio­wał i odby­wał staże na Uni­wer­sy­te­cie Stan­forda i w pry­wat­nym Insty­tu­cie Hasso Plat­t­nera w Pocz­da­mie.Pro­wa­dzi nas w przy­szłość, pisze granty, orga­ni­zuje zespoły, zaraża pasją.</p>
+			<p></p>
+		</div>
+	
+		<div class="large-4 columns centered-text zurbian">
+			<img alt="maciej karczewski" src="/web/20140516203451im_/http://illimites.edu.pl/img/maciej.karczewski.jpg" />
+			<p></p>
+			<h3><a href="">Damian Koniarek</a></h3>
+			<p class="job-title">Historyk</p>
+			<p class="short-bio">Absolwent kulturoznawstwa i histo­rii na Uni­wer­sy­tecie Wro­cław­skim. Ukończył tamże studia doktoranckie z historii. Pasjo­nuje się histo­rią ekonomii, ekonomistami II RP i mapami. Jest również przewodnikiem miejskim. Kieruje projektami w Instytucie Misesa.</p>
+		</div>
+	</div>
+
+
+	<div class="row showcase">
+		
+		<div class="show-for-large-up large-6 column">
+		<h3>Nasze publikacje</h3>
+			<iframe src="http://wl.figshare.com/articles/1045413/embed?show_title=0" width="568" height="504" frameborder="0"></iframe>
+		</div>
+		<div class="small-11 small-centered large-uncentered large-6 column panel">
+		<h3>Dołącz do nas</h3>
+			<p>Jesteśmy w trakcie pilotażowych badań. Zbieramy dane, próbujemy stworzyć bazę relacji między naukowcami i przedsiębiorcami z II RP</p>
+			<p>Poszukujemy historyków, socjologów, informatyków, analityków danych i programistów</p>
+			<p>Interesuje cię historia polskich sukcesów wynalazczych i naukowych z II RP? Robisz doktorat z sieci społecznych, historii lub socjologii?</p>
+			<h4>Napisz do nas</h4>
+			<p><a class="button left" href="/university/lessons/65" title="ZURB.com">Dowiedz się więcej</a></p>
+		</div>
+	</div>
+</div>
