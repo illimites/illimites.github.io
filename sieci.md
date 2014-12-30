@@ -37,7 +37,7 @@ keywords: github pages, Jekyll, foundation 5
 				<img alt="Pogranicze analogowo-cyfrowe" class="second" src="/assets/main/historical_networks2.png">
 			</div>
 		</div>
-		<div class="small-11 small-centered large-uncentered large-6 column text-justify">
+		<div class="small-11 small-centered large-uncentered large-6 column">
 			<p>Jak wyglądała struktura relacji między nauką a biznesem w II RP? Naszą hipotezą jest, iż w <em>II RP istniała gęsta sieć relacji między naukowcami a przedsiębiorcami</em>. Technicnie to ujmując, hipoteza brzmi iż rozkład stopni wierzchołków w grafie relacji (sieci społecznej) B+R II RP podążał za prawem potęgowym z parametrem beta \in 2,3. Panagniotou pokazał, iż sieci o takiej strukturze mają doskonałe możliwości komunikacyjne. Roben zaś pokazał, że są one wyjątkowo odporne na ataki (likwidację węzłów).
 			</p>
 			<p>Naszą drugą hipotezą jest, iż dzisiejszy niedobór relacji nauki i biznesu wynika z faktu, iż ta gęsta sieć relacji uległa atakowi o strukturze podobnej do zaproponowanego przez Robbena. Losowe zabijanie naukowców niewiele by dało, ale atak polegający na likwidacji najlepiej usieciowionych elit, był atakiem, który pozwolił na skuteczne rozspójnienie grafu relacji, tj. fragmentację tych środowisk i podział między nimi.</p>
@@ -55,7 +55,7 @@ keywords: github pages, Jekyll, foundation 5
 			<p></p>
 		</div>
 
-		<div class="large-4 column text-justify zurbian">
+		<div class="large-4 column zurbian">
 			<img alt="piotr szymański" src="/web/20140516203451im_/http://illimites.edu.pl/img/piotr.szymanski.jpg" />
 			<p></p>
 			<h3><a href="">Piotr Szy­mań­ski</a></h3>

@@ -1,13 +1,11 @@
 @media #{$small-only} {
 
-
-	aside#quotes {
-		display: none;
-	}
-
+	.small-12 {
+		text-align: justify;
+	} 
 
 .row.showcase {
-	margin: 3em auto;
+	margin: 3em 0;
 
 	> h2 {
 		margin:1em 0;
@@ -39,17 +37,13 @@
 	}
 
 
-.row.showcase {
-	margin: 3em 3%;
+	.row.showcase {
+		margin: 3em 3%;
 
-	> h2 {
-		margin:1em 0;
+		> h2 {
+			margin:1em 0;
+		}
 	}
-}
-
-	 
-
-
 	.row.main.valign-middle {
 		height: 100%;
 	}

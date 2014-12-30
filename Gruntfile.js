@@ -11,7 +11,8 @@ module.exports = function(grunt) {
           outputStyle: 'compressed'
         },
         files: {
-          'css/style.css': 'scss/style.scss'
+          'css/style.css': 'scss/style.scss',
+          'css/nonchrome.css': 'scss/_nonchrome.scss'
         }        
       }
     },

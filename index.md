@@ -9,9 +9,9 @@ keywords: github pages, Jekyll, foundation 5
 <div id="innovating">
 	<!--- https://www.flickr.com/photos/gsfc/4398656115 -->
 	<div class="row large-collapse valign-middle" >
-		<div class="small-11 large-12 columns" >
+		<div class="small-11 large-8 text-center columns" >
 			<h1>Inno­wa­cja przez prze­kra­cza­nie granic</h1>
-			<p>Oddol­nie, spo­łecz­nie, kon­ty­nu­ujemy pol­ską tra­dy­cję upra­wia­nia nauki zmie­nia­ją­cej świat i pod­bi­ja­ją­cej rynki.</p>
+			<p>Oddol­nie, spo­łecz­nie, kon­ty­nu­ujemy pol­ską tra­dy­cję upra­wia­nia nauki zmie­nia­ją­cej świat i pod­bi­ja­ją­cej rynki. <br /> Jesteśmy pozarządową jednostką naukową prowadzącą interdyscyplinarne badania naukowe i prace rozwojowe.</p>
 		</div>
 	</div>
 </div>
