@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Sieci społeczne
-description: This is my site. Welcome.
-keywords: github pages, Jekyll, foundation 5
+title: Sieć społeczna środowisk nauki i biznesu II RP
+description: W fundacji illimites badamy jak struktura relacji między nauką a biznesem w przedwojennej Polsce pozwoliła na rozkwit ówczesnej innowacji.
+keywords: sieci społeczne, II RP, nauka, biznes, transfer technologii, historia
+imageurl: /img/2rp.png
 ---
 
 

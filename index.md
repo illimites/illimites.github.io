@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Strona główna
-description: This is my site. Welcome.
-keywords: github pages, Jekyll, foundation 5
+description: Jesteśmy pozarządową jednostką naukową prowadzącą interdyscyplinarne badania naukowe i prace rozwojowe. Poznaj nasze projekty i ludzi, dzięki którym się spełniają.  
+keywords: nauka, biznes, polska, fundacja, jednostka naukowa
+imageurl: /img/innovating.jpg
 ---
 
 
