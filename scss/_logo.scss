@@ -14,7 +14,8 @@ header#header {
 @media #{$small-only} { 
 
 	#togler {
-		right: 5%; top:1.5em; color:white; display:block; position: absolute; z-index:100;
+		right: 5%; top:1.5em; color:white; display:block; position: absolute; z-index:100; cursor: pointer;
+
 	}
 
 	section[role='main'] {
