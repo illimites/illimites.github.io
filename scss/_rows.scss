@@ -4,13 +4,23 @@
 		text-align: justify;
 	} 
 
-.row.showcase {
-	margin: 3em 0;
+	.row.showcase {
+		margin: 3em 0;
 
-	> h2 {
-		margin:1em 0;
+		> h2 {
+			margin:1em 0;
+		}
 	}
-}
+
+	#foundationinfo {
+		span.separator {
+			display: none;
+		}
+
+		span.item {
+			display:block;
+		}
+	}
 
 }
 
@@ -46,6 +56,12 @@
 	}
 	.row.main.valign-middle {
 		height: 100%;
+	}
+
+	#foundationinfo {
+		span.item {
+			display: inline-block;
+		}
 	}
 }
 
